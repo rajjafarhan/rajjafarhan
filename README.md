@@ -9,13 +9,13 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Full stack development 
 - 💬 Ask me about React,Javasript
 - 📫 How to reach me: rajjafarhan2@gmail.com
-- 😄 Pronouns: Rj
+
 
 
 
 <hr/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajjafarhan-90&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajjafarhan&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr/>
 
